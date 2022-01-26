@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zendesk-rexaustin
 - 👀 I’m interested in writing context-relative content that quickly helps users perform tasks.
 - 🌱 I’m currently learning everything Zendesk, technolgies, and how to create effective UI/UX.
-- 💞️ I’m looking to collaborate on Email documentation and product enhancements.
+- 💞️ I’m looking to collaborate on Email and Business systems documentation.
 - 📫 How to reach me rex.austin@zendesk.com
 
 <!---
